@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="btnGetStarted">#39796b</color>
+    <color name="navDrawerBG">#7F7C7E80</color>
+    <color name="actionBar">#0E0D0E</color>
 </resources>
