@@ -4,7 +4,7 @@ public class Pizza {
     private String name;
     private String type;
     private String summary;
-    private boolean offer;
+    private boolean offer; //may be changed to string
     private String smallPrice;
     private String medium;
     private String largePrice;

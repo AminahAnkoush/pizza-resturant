@@ -1,7 +1,7 @@
 package com.birzeit.pizzarestaurant.models;
 
 public class Order {
-    private String pizzaName;
+    private String pizzaName; //may be removed
     private String size;
     private String price;
     private String date;

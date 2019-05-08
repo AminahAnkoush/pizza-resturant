@@ -1,6 +1,6 @@
 package com.birzeit.pizzarestaurant.models;
 
-public class Person {
+public class User {
     private String email;
     private String phone;
     private String firstName;
@@ -9,10 +9,10 @@ public class Person {
     private String gender;
     private boolean isAdmin;
 
-    public Person() {
+    public User() {
     }
 
-    public Person(String email, String phone, String firstName, String lastName, String password, String gender, boolean isAdmin) {
+    public User(String email, String phone, String firstName, String lastName, String password, String gender, boolean isAdmin) {
         this.email = email;
         this.phone = phone;
         this.firstName = firstName;
